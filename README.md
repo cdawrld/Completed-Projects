@@ -1,3 +1,3 @@
-These are examples of my work on the path to be a data 
+These are examples of data exploration as learn to be a data 
 scientist
 Thank you for visiting.
